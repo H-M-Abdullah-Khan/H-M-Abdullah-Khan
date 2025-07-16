@@ -12,9 +12,6 @@
   🔥 Building secure, smart, and scalable software solutions from Karachi, Pakistan.
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H-M-Abdullah-Khan/H-M-Abdullah-Khan/main/Banner.png" alt="Hafiz Muhammad Abdullah Khan Banner" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=H-M-Abdullah-Khan&label=Profile+Views&color=blue&style=flat-square" alt="Visitor Count"/>
