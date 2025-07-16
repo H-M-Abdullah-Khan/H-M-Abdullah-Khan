@@ -5,9 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;ASP.NET+%7C+Laravel+Specialist;Cybersecurity+Learner+%F0%9F%94%91;Quran+Teacher+%7C+Code+Lover+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H-M-Abdullah-Khan/H-M-Abdullah-Khan/main/Banner.png" alt="Hafiz Muhammad Abdullah Khan Banner" />
-</p>
+
 
 <p align="center">
   <b>🧑‍💻 Full Stack Web Developer | ASP.NET Developer | Laravel Enthusiast | Cybersecurity Learner</b><br/>
@@ -15,8 +13,14 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/H-M-Abdullah-Khan/H-M-Abdullah-Khan/main/Banner.png" alt="Hafiz Muhammad Abdullah Khan Banner" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=H-M-Abdullah-Khan&label=Profile+Views&color=blue&style=flat-square" alt="Visitor Count"/>
 </p>
+
+
 
 ---
 
