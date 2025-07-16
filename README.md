@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/H-M-Abdullah-Khan/H-M-Abdullah-Khan/main/Banner.png" alt="Hafiz Muhammad Abdullah Khan Banner" />
-</p>
 
 
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Abdullah Khan</h1>
