@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Abdullah Khan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;ASP.NET+%7C+Laravel+Specialist;Cybersecurity+Learner+%F0%9F%94%91;Quran+Teacher+%7C+Code+Lover+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;ASP.NET+%7C+Laravel+Specialist;Cybersecurity+Expert+%F0%9F%94%91;Quran+Teacher+%7C+Code+Lover+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 
