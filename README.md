@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <b>🧑‍💻 Full Stack Web Developer | ASP.NET Developer | Laravel Enthusiast | Cybersecurity Learner</b><br/>
+  <b>🧑‍💻 Full Stack Web Developer | ASP.NET Developer | Laravel Expert | Cybersecurity Expert</b><br/>
   🔥 Building secure, smart, and scalable software solutions from Karachi, Pakistan.
 </p>
 
