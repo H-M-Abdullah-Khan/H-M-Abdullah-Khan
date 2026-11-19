@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-My name is **Hafiz Muhammad Abdullah Khan**, a 20-year-old self-motivated full stack web developer with a deep passion for coding, cybersecurity, teaching, and the Quran. Born and raised in Karachi, Pakistan 🇵🇰, my journey began not in code, but with the Holy Quran.
+My name is **Hafiz Muhammad Abdullah Khan**, a 21-year-old self-motivated full stack web developer with a deep passion for coding, cybersecurity, teaching, and the Quran. Born and raised in Karachi, Pakistan 🇵🇰, my journey began not in code, but with the Holy Quran.
 
 By the age of 12, I had memorized the Quran, developing strong discipline, focus, and mental clarity. Later, this foundation evolved into a desire to **solve complex problems** using technology. That’s when I discovered programming.
 
